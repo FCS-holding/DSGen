@@ -10,6 +10,7 @@ These system packages are required:
 - ROSE compiler 0.11.4.14
 - GCC 4.9.4
 - RapidJSON 
+- Merlin Compiler (https://github.com/falcon-computing/Merlin_Compiler (private) 
 
 # Building DSGen
     $ export MERLIN_PATH=/path/to/merlin-deps-binary-library-local/
